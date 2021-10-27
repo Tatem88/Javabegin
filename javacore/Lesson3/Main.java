@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        String[] arr = {"asd", "ds", "ret", "123"};
+        String[] arr = {"abc", "de", "fgh", "123"};
 
 
         System.out.println( Arrays.toString(arr));
